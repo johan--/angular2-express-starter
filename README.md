@@ -36,7 +36,7 @@ npm install
 npm run start
 
 # Client url: http://localhost:4200
-# Application ( epxress ) API: http://localhost:4300
+# Application ( express ) API: http://localhost:4300
 ```
 
 Install Redux DevTools chrome extenstion:
@@ -61,5 +61,3 @@ Structure of dist folder:
 ## Note
 
 All html and css are from: http://www.w3schools.com/howto/
-
-
